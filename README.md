@@ -1,4 +1,4 @@
-## Fun game og Hangman -- for a single or multi-player
+## Fun game of Hangman -- for a single or multi-player
  
 Create a simple Hangman game using the popular Python library, Pygame. Read more at https://www.ignitepathways.org/post/hangman
 
